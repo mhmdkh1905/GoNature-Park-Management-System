@@ -20,7 +20,7 @@ connect the server to your sql:</br>
 • click Start.</br>
 • click Import Users.</br></br>
 Client Page:</br>
-![image](https://github.com/user-attachments/assets/9ee08655-4eb3-4e4b-9939-914035e0133b)</br></br>
+![image width="500" height="600"](https://github.com/user-attachments/assets/9ee08655-4eb3-4e4b-9939-914035e0133b)</br></br>
 • insert the IP of the server , present in the Server Page.</br>
 • Click connect.</br></br>
 Login Page:</br>
