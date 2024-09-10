@@ -13,7 +13,7 @@
 •	Extract the Client as a jar.</br></br>
 Server page:</br>
 <img src="[drawing.jpg](https://github.com/user-attachments/assets/2a2e148c-435c-4b33-8570-a21c15e00929)" width="600" height="500"/>
-![image](https://github.com/user-attachments/assets/2a2e148c-435c-4b33-8570-a21c15e00929)</br></br>
+![image](https://github.com/user-attachments/assets/2a2e148c-435c-4b33-8570-a21c15e00929){ width="600" height="500"; }</br></br>
 connect the server to your sql:</br>
 • insert the username that you have in mySql.</br>
 • insert the password that you have in mySql.</br>
