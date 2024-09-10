@@ -1,5 +1,5 @@
 # GoNature-Park-Management-System
-•	Developed as part of the Engineering Methods for Developing Software Systems course.< br / >
+•	Developed as part of the Engineering Methods for Developing Software Systems course.< br  >
 •	Designed a two-layered architecture (client-server) using Java, JavaFX, and MySQL for the database.< br / >
 •	Implemented a system that allows users to make reservations for park visits and offers various services to park employees.< br / >
 •	Features include managing park parameters, approving/denying requests, and generating reports for department managers.< br / >
