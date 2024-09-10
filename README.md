@@ -12,7 +12,8 @@
 •	Extract the Server as a jar.</br>
 •	Extract the Client as a jar.</br></br>
 Server page:</br>
-![image width="500" height="600"](https://github.com/user-attachments/assets/2a2e148c-435c-4b33-8570-a21c15e00929)</br></br>
+<img src="[drawing.jpg](https://github.com/user-attachments/assets/2a2e148c-435c-4b33-8570-a21c15e00929)" width="600" height="500"/>
+![image](https://github.com/user-attachments/assets/2a2e148c-435c-4b33-8570-a21c15e00929)</br></br>
 connect the server to your sql:</br>
 • insert the username that you have in mySql.</br>
 • insert the password that you have in mySql.</br>
@@ -20,7 +21,7 @@ connect the server to your sql:</br>
 • click Start.</br>
 • click Import Users.</br></br>
 Client Page:</br>
-![image width="500" height="600"](https://github.com/user-attachments/assets/9ee08655-4eb3-4e4b-9939-914035e0133b)</br></br>
+![image](https://github.com/user-attachments/assets/9ee08655-4eb3-4e4b-9939-914035e0133b)</br></br>
 • insert the IP of the server , present in the Server Page.</br>
 • Click connect.</br></br>
 Login Page:</br>
